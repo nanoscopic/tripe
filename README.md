@@ -1,6 +1,14 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## Popular News
+
+Examples:
+- "X got fired! X got re-hired!"
+- "X died"
+
+This stuff is certainly news, but having all of your connecitons each post the same bit of popular news makes it pointless. If you are going to post something that is the same old shit, at least talk about it from your own viewpoint and contribute something to the conversation.
+
 ## TIL ( Today I learned )
 
 This is useless information disguised as a helpful sharing of some useful learning. Often it is an oversimplification of actual truth and looks like someone copied and pasted the first few paragraphs of an introduction to some topic.
