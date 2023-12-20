@@ -7,7 +7,7 @@ Examples:
 - "X got fired! X got re-hired!"
 - "X died"
 
-This stuff is certainly news, but having all of your connecitons each post the same bit of popular news makes it pointless. If you are going to post something that is the same old shit, at least talk about it from your own viewpoint and contribute something to the conversation.
+This stuff is certainly news, but having all of your connections each post the same bit of popular news makes it pointless. If you are going to post something that is the same old shit, at least talk about it from your own viewpoint and contribute something to the conversation.
 
 ## TIL ( Today I learned )
 
