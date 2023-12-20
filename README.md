@@ -1,6 +1,10 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## Blind link
+
+Posting of a single link, either already URL shortened, or shortened by the social network it is posted to, such that you have no idea what it is and have no motivation to click on it.
+
 ## Connect-a-thon
 
 "This post is a party for everyone who reads it to connect to each other"
