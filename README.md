@@ -1,6 +1,13 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## Position Spam
+
+Examples:
+- "We just hired X as Y"
+- "I just got promoted to king super duper meaningless title"
+- "It's X's workiversary"
+
 ## Blind link
 
 Posting of a single link, either already URL shortened, or shortened by the social network it is posted to, such that you have no idea what it is and have no motivation to click on it.
