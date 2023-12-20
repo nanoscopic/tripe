@@ -1,6 +1,10 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## Connect-a-thon
+
+"This post is a party for everyone who reads it to connect to each other"
+
 ## Rich person did X, you should too!
 
 A single anecdote is not much evidence of anything. Unless it is a reasonably scientific study of a wide number of people ruling out other effects most of this is nonsense and won't improve your ability to "get rich".
