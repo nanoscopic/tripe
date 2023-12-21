@@ -3,7 +3,7 @@ An attempt to organize the varieties of tripe that are commonly present within s
 
 ## Resume
 
-This one is specific to LinkedIn, in that a LinkedIn profile is itself a resume. Posting a resume to LinkedIn therefore is redundant, and worse oversharing. It appears to be someone attempts to be fully transparent in their search for a job but it is actually just more spam.
+This one is specific to LinkedIn, in that a LinkedIn profile is itself a resume. Posting a resume to LinkedIn therefore is redundant, and worse oversharing. It appears to be someone attempting to be fully transparent in their search for a job but it is actually just more spam.
 
 ## Position Spam
 
