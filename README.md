@@ -1,6 +1,12 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## Term Nitpick
+
+1. Software Engineers aren't Engineers
+
+There is no point to this idea or any discussion surrounding it.
+
 ## Taglines
 
 This is tripe appended to the bottom of a post that has nothing to do with the post. It is usually an advertisement for something the poster is involved in, such as a newsletter they offer, or some service they want you to sign up for. While it can be reasonable to make a post about those things by itself, when dumped into an unrelated post it is just spam.
