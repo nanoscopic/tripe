@@ -1,6 +1,10 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## Taglines
+
+This is tripe appended to the bottom of a post that has nothing to do with the post. It is usually an advertisement for something the poster is involved in, such as a newsletter they offer, or some service they want you to sign up for. While it can be reasonable to make a post about those things by itself, when dumped into an unrelated post it is just spam.
+
 ## Resume
 
 This one is specific to LinkedIn, in that a LinkedIn profile is itself a resume. Posting a resume to LinkedIn therefore is redundant, and worse oversharing. It appears to be someone attempting to be fully transparent in their search for a job but it is actually just more spam.
