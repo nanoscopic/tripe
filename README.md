@@ -48,7 +48,7 @@ Posting a quote, that, while potentially interesting, might as well be a random 
 
 ## FUD ( Fear, Uncertainy, and Doubt )
 
-These are things that are shared that exaggerate fear or promote a misunderstanding of things that are actually well understood. This exaggeration may be intentional or unintentional. The author knowing that what they are posting is FUD is not necessary for it to be such.
+These are things that are shared that exaggerate a concern, encourage fear, or promote a misunderstanding of things that are actually well understood. This exaggeration may be intentional or unintentional. The author knowing that what they are posting is FUD is not necessary for it to be such.
 
 1. Accessing websites is unsafe
 
