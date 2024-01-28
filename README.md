@@ -1,11 +1,21 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## I can has copy paste
+
+Poster surfed the internet or flipped through some techy books, and found something that looks good. They copy and paste it to as a post, and get accolades for the wonderful stuff they came up with. They didn't, though, come up with it. It's plagiarism. Don't do this. If it was a short quote, and they source the quote, under US law it could be fair-use of copyrighted material. They never do that though. They always pretend as if they came up with the information themselves.
+
 ## Term Nitpick
 
 1. Software Engineers aren't Engineers
 
 There is no point to this idea or any discussion surrounding it.
+
+2. You aren't a Senior Software Engineer unless you X
+
+Usually X in this case is something relatively reasonable for at least some amount of Senior Software Engineers to be able to do or be doing. The issue with this is the wording. It is obviously stupid garbage to say "All Senior Software Engineers X", and that is essentially what is being stated. People are very diverse, and the term "Senior Software Engineer" is so very vague that this stuff is obviously and completely false.
+
+When you point out this statement is idiotic, the pundits supporting it go "You don't think Senior Software Engineers should be able to do X?" or "You don't think Senior Software Engineers should do X?" I never said anything such thing. The problem is the blanket sweeping statement. If you mean "It is a good idea to do X as a Senior Software Engineer" then say that. Don't say this sweeping nonsense that comes off as extremely arrogant. It is basically some random shitheads saying "I am the master of knowledge about being a Senior Software Engineer." No. You ain't.
 
 ## Taglines
 
@@ -39,6 +49,7 @@ A single anecdote is not much evidence of anything. Unless it is a reasonably sc
 Examples:
 - "X got fired! X got re-hired!"
 - "X died"
+- "Apple hosted a press conference today, and released [unimpressive junk], and you should check it out!"
 
 This stuff is certainly news, but having all of your connections each post the same bit of popular news makes it pointless. If you are going to post something that is the same old shit, at least talk about it from your own viewpoint and contribute something to the conversation.
 
