@@ -1,6 +1,20 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## Virtue Signaling Lies
+
+1. "Social skills can't be taught, everything else can be"
+
+Often this is paired with "we don't hire assholes", mention of the book "the no asshole rule", or similar. The claim is that anyone can be taught on the job everything they need to know except how to be a nice person.
+
+This is absurd for a Software Engineering position, as ability to perform such work is not something all people are able to do, and something that many people attempting to get jobs doing it are poor at. This is why there are extensive interview processes to ascertain technical skill.
+
+This type of nonsense is just virtue signaling, and is a total lie. Even supposing they could teach all the necessary technical skills, it wouldn't be worth it. When you hire an engineer you want them to "hit the ground running" as much as possible. You hire people who have familiarity with the tech you are using also, in order to reduce training time.
+
+This nonsense is even more ridiculous for higher end roles that require years of experience and knowledge.
+
+My personal counter to this total bullshit is "Friendly idiots are a dime a dozen."
+
 ## I can has copy paste
 
 Poster surfed the internet or flipped through some techy books, and found something that looks good. They copy and paste it to as a post, and get accolades for the wonderful stuff they came up with. They didn't, though, come up with it. It's plagiarism. Don't do this. If it was a short quote, and they source the quote, under US law it could be fair-use of copyrighted material. They never do that though. They always pretend as if they came up with the information themselves.
