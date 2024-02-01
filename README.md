@@ -15,6 +15,22 @@ This nonsense is even more ridiculous for higher end roles that require years of
 
 My personal counter to this total bullshit is "Friendly idiots are a dime a dozen."
 
+2. "Assholes" don't deserve jobs
+
+It is common to test social skills when hiring. There is a certain level of failure in such testing where it is typical to reject a candidate. One way to refer to this practice is by the phrase "We don't hire assholes" or "No assholes allowed". At first glance this seems reasonable, because you think to yourself "who wants to work with an asshole?"
+
+The trouble is that this measurement of "who is and is not an asshole" is highly subjective and is very easily turned into a cheap and easy way to reject any candidate you disagree with. This is especially common in companies with a "strong code of behavior", which equates in reality to behaving like a cult.
+
+Many of us have met many "assholes" who we disliked in the workplace, and who seemed to be enabled by the system. Because of this, the idea of "banning or rejecting the assholes" is appealing to common sense.
+
+The deeper problem with "measuring assholishness" is that it is claimed to be a permanent and clearly visible attribute of an individual.
+
+This couldn't be further from the truth. There are people who behave like an asshole chronically. These are not the only people being rejected by the "no asshole evaluation".
+
+Behaving badly is not an attribute. It is an action. It is not a part of who a person is. There is no person who we can reasonably say "This person is an asshole inherently and always." Humans are able to learn and modify their behavior. Further, even if it was true that a person could permanently "be an asshole", it is not true that such a person couldn't choose to behave in a proper and acceptable fashion within the workplace.
+
+Essentially, those who push the "no asshole" concept are pushing thought crime and judgement by stereotype. They are often pushing some personal cult ideology as well. The anti-asshole is not a polite, accepting, and loving person. The anti-asshole is an asshole also, just a different variant. That variant is very judgemental and refuses to accept people who don't abide by their cult ideology.
+
 ## I can has copy paste
 
 Poster surfed the internet or flipped through some techy books, and found something that looks good. They copy and paste it to as a post, and get accolades for the wonderful stuff they came up with. They didn't, though, come up with it. It's plagiarism. Don't do this. If it was a short quote, and they source the quote, under US law it could be fair-use of copyrighted material. They never do that though. They always pretend as if they came up with the information themselves.
