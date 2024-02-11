@@ -114,7 +114,13 @@ Examples:
 - "Following shortened URLs is dangerous"
 - "Visiting shady websites is unsafe"
 
-2. "LLMs are taking our jobs"
+2. LLMs are taking our jobs
+
+3. BitLocker has been broken!
+
+Someone extracted a saved password from a TPM module plugged into a motherboard. This was inevitable, and is not newsworthy at all. Now everyone is going around saying BitLocker is broken. This has nothing to do with BitLocker imo, and everything to do with the absurd notion that "You can't extract data from a TPM" which was never true to begin with.
+
+Mind you I would never trust BitLocker, but this bit of nonsense news is not why.
 
 ## X Should be Illegal
 
