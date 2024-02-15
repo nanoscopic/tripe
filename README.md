@@ -12,6 +12,7 @@ This is a slight variant from the typicaly X should get Y, as it is pro tipping 
 Yes. This is a real statement I've seen. It is based on the claim of 90 hrs per week, and I assume calculated from the cost of professional childcare.
 
 There are a wide variety of problems with this claim:
+- Typically the way this is phrased is only referring to mothers. This is a problem as both parents raise a child. It's sexist.
 - There is an assumption that the parent is doing a good job. ( many don't )
 - They seem to intentionally ignore the time a child is off at school and still claim it as time "worked".
 - They don't acknowledge that there is a difference between watching a child and actively doing something to take care of the child.
