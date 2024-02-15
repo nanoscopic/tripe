@@ -1,6 +1,31 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## X should get paid Y
+
+1. "Waiters should be be paid a higher tip"
+
+This is a slight variant from the typicaly X should get Y, as it is pro tipping culture, and is, imo, driven by people who want to make money fast doing easy work in a short amount of time. The idea that handing people plates of food should earn a person a percentage of the value of the plate of food is just crazy.
+
+2. "Mothers if paid fairly should make $180k/yr to take care of a child"
+
+Yes. This is a real statement I've seen. It is based on the claim of 90 hrs per week, and I assume calculated from the cost of professional childcare.
+
+There are a wide variety of problems with this claim:
+- There is an assumption that the parent is doing a good job. ( many don't )
+- They seem to intentionally ignore the time a child is off at school and still claim it as time "worked".
+- They don't acknowledge that there is a difference between watching a child and actively doing something to take care of the child.
+- It compares uneducated untrained labor to positions that require many years of training followed by many years in a career in order to attain such a salary.
+- It's insulting to people who have worked their whole life to reach the point of being able to make such a salary.
+
+I think that being a parent is important, that raising children well is crucial to humanity, and that parents deserve to be respected and supported. They do not, though, deserve to be paid $180k / yr for what they do though. They are not bringing a company money in excess of that, and the child they are raising may be a complete failure and a net negative to humanity.
+
+Choosing to have and raise children is something people choose to do because they want to do so. If you want to make money, have a career and work hard in industry. If you want to make money taking care of children, you can have a daycare, or be a teacher.
+
+This whole tripism is based on the fallacy that "my time is worth $X". That is a horrible concept and is only bad for humanity.
+
+Finally, if parents deserve to be paid $180k / yr even if they idly sit by and watch their child grow up to become a bum, how much should actual teachers be paid?
+
 ## Virtue Signaling Lies
 
 1. "Social skills can't be taught, everything else can be"
