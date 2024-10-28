@@ -13,9 +13,9 @@ This wouldn't be tripe if there was something of note to share about the experie
 
 ## X should get paid Y
 
-1. "Waiters should be be paid a higher tip"
+1. "Waiters should be paid a higher tip"
 
-This is a slight variant from the typicaly X should get Y, as it is pro tipping culture, and is, imo, driven by people who want to make money fast doing easy work in a short amount of time. The idea that handing people plates of food should earn a person a percentage of the value of the plate of food is just crazy.
+This is a slight variant from the typical X should get Y, as it is pro tipping culture, and is, imo, driven by people who want to make money fast doing easy work in a short amount of time. The idea that handing people plates of food should earn a person a percentage of the value of the plate of food is just crazy.
 
 2. "Mothers if paid fairly should make $180k/yr to take care of a child"
 
