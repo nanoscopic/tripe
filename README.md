@@ -1,6 +1,16 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## I met famous person X
+
+1. "I met Jensen Huang."
+
+Perhaps this might be interesting if the post was about an actual conversation with him and shared the details of it. 
+
+It never is though. I've seen many posts about meeting this guy, and it's all pretty much "I met this famous guy." So fucking what. I get this might be an entertaining thing to share with your friends or family, but it's absolutely meaningless and unimportant to the rest of the world.
+
+This wouldn't be tripe if there was something of note to share about the experience. It's tripe because it's posted more as a status thing and a way to manipulate whatever algorithms there are by mentioning a famous person. Eg: It's attention whoring at its finest: "Pay attention to me because I met this person."
+
 ## X should get paid Y
 
 1. "Waiters should be be paid a higher tip"
