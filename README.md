@@ -1,6 +1,12 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## I used a raspberry pi!
+
+Great. Are you 12?
+
+Often tied with "I ran a small LLM". Nobody cares.
+
 ## I can has [bs work achievment]
 
 Companies often give out "awards" to employees for stuff. It ranges from meaningless crap done to try and motivate actually
