@@ -12,6 +12,10 @@ fair, or consistent fashion. It amounts to "HR had an idea". Usually an idiotic 
 If you've accomplished something, then fucking tell us about what you did with details. If you aren't going to tell us
 anything, and are just going to post some bullshit picture of a "work achievement", then you are just obnoxious.
 
+A variant of this are posts that say something along the lines of "Meet Dingleberry Dumbass he's an awesome employee who
+makes us money! Here is his picture we forced him to let us take." Uh... great. You have employees doing their jobs. Good
+for you.
+
 ## I did X with AI
 
 AI is extremely popular right now, and many people have not yet experienced what is possible using AI systems.
