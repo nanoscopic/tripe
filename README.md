@@ -1,6 +1,17 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## I can has [bs work achievment]
+
+Companies often give out "awards" to employees for stuff. It ranges from meaningless crap done to try and motivate actually
+bad employees, to quality work done which is just part of their job in the first place.
+
+You might think to yourself "but this is important positive encouragement". The issue is it is never done in a balanced,
+fair, or consistent fashion. It amounts to "HR had an idea". Usually an idiotic idea.
+
+If you've accomplished something, then fucking tell us about what you did with details. If you aren't going to tell us
+anything, and are just going to post some bullshit picture of a "work achievement", then you are just obnoxious.
+
 ## I did X with AI
 
 AI is extremely popular right now, and many people have not yet experienced what is possible using AI systems.
