@@ -1,6 +1,19 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## I went to a conference! Omgz.
+
+Going to a conference, by itself, is tripe and annoying. Lots of people do.
+These posts never give any value. They are always like "it was awesome", or "I learned interesting things!"
+
+The details? Never present. What did you learn? Summarize it for us. Otherwise stfu.
+
+Some variants of this are selfies at the con, pictures of swag, etc. This is social positioning.
+"Look at me I'm important I was there". No. You ain't. Your job probably paid for it.
+
+The thing is, I'm all in favor of going to cons and interacting with people in person. I just don't need to
+have 30 posts from the people I know in the industry all spam me with that crap.
+
 ## I used a raspberry pi!
 
 Great. Are you 12?
