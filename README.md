@@ -1,6 +1,10 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## I'm on a plane! Whee
+
+Great. I hope it crashes.
+
 ## I went to a conference! Omgz.
 
 Going to a conference, by itself, is tripe and annoying. Lots of people do.
