@@ -1,6 +1,22 @@
 # Tripe
 An attempt to organize the varieties of tripe that are commonly present within social media.
 
+## I did X with AI
+
+AI is extremely popular right now, and many people have not yet experienced what is possible using AI systems.
+So when someone experiences it for themselves, it seems world changing. If you experience something world changing, of
+course you want to share it with the world! Right!
+
+Wrong. Stop this shit. We know already. 3 billion people already told us AI is amazing. Now stfu.
+
+## AI will ruin the world!
+
+I'm guilty of this one myself recently as I believe this firmly. Posting that though without any reasoning or evidence
+on how exactly it is ruining the world is just tripe. Don't do it.
+
+A lot of good information becomes tripe the moment you leave out all the details and throw crap out there just for
+shock value and/or debate.
+
 ## I met famous person X
 
 1. "I met Jensen Huang."
