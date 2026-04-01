@@ -3,7 +3,15 @@ An attempt to organize the varieties of tripe that are commonly present within s
 
 ## I'm on a plane! Whee
 
-Great. I hope it crashes.
+Great. Truly groundbreaking. Humanity has once again conquered the ancient challenge of sitting in a chair at 30,000 feet.
+
+Please keep us updated if you also manage to use a seatbelt.
+
+I do understand that it can be fun to take a plane somewhere, but unfortunately a lot of these posts are status
+signaling from rich people. "Look at me I can afford first class." I understand first class is more pleasant,
+especially for long distance flights such as between countries. It is still very entitled and resource wasteful.
+I also believe that frivolous plane travel is damaging to the environment and that humanity should do our best
+to reduce flights as much as we can for the good of everyone.
 
 ## I went to a conference! Omgz.
 
